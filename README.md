@@ -90,7 +90,7 @@ metamask-vault-finder/
 │   └── Luigi.png       # Author avatar
 │   └── screenshot.jpg  # Application screenshot
 ├── sounds/
-│   └── uspech.mp3      # Success notification sound
+│   └── uspech.mp3      # Decompression success notification sound
 ├── 42                  # The answer to the ultimate question of life, the universe, and everything :D
 ```
 ### Test File
