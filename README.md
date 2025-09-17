@@ -1,4 +1,4 @@
-# MetaMask Vault Finder
+# MetaMask Vault Finder v1.23
 
 ![MetaMask Vault Finder](https://github.com/0xLuigi/metamask-vault-finder/blob/main/images/screenshot.jpg)
 
