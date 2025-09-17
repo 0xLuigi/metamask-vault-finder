@@ -1,4 +1,4 @@
-# MetaMask Vault Finder v1.23
+# 🦊 MetaMask Vault Finder v1.23
 
 ![MetaMask Vault Finder](https://github.com/0xLuigi/metamask-vault-finder/blob/main/images/screenshot.jpg)
 
@@ -93,8 +93,9 @@ metamask-vault-finder/
 │   └── uspech.mp3      # Decompression success notification sound
 ├── 42                  # The answer to the ultimate question of life, the universe, and everything :D
 ```
-### Test File
+## 📄 Test File
 - The project includes a sample Firefox MetaMask wallet file named `42` that you can use to test the functionality of the tool.
+- On file 42, you can try Snappy decompression 🗜️. 
 - The password for file 42 is: MetaMask
 
 ## 👨‍💻 Author
