@@ -94,7 +94,8 @@ metamask-vault-finder/
 ├── 42                  # The answer to the ultimate question of life, the universe, and everything :D
 ```
 ### Test File
-- The project includes a sample Firefox MetaMask wallet file named `42` that you can use to test the functionality of the tool. 
+- The project includes a sample Firefox MetaMask wallet file named `42` that you can use to test the functionality of the tool.
+- The password for file 42 is: MetaMask
 
 ## 👨‍💻 Author
 
