@@ -84,7 +84,8 @@ metamask-vault-finder/
 ├── styles.css          # Application styles
 ├── js/
 │   ├── ethers.umd.min.js    # Ethereum library
-│   └── crypto-js.min.js     # Cryptographic functions
+│   ├── crypto-js.min.js     # Cryptographic functions
+│   └── vault-decryptor.js   # Vault decryptor logic
 ├── images/
 │   ├── icon.ico        # Application icon
 │   └── Luigi.png       # Author avatar
